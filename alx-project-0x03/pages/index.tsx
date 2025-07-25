@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 export default function Home() {
   return (
     <div>
-     <h1 className="text-3xl">Welcome to Splash App</h1>
+    <h1> Welcome to Splash App </h1>
     </div>
   );
 }
